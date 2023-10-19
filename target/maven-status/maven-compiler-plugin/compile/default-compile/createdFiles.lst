@@ -1,0 +1,8 @@
+com\unach\taller\Service\ArtistaService.class
+com\unach\taller\Practica1Application.class
+com\unach\taller\JPA\ArtistaRepository.class
+com\unach\taller\Controller\ArtistaController.class
+com\unach\taller\Entity\Artista.class
+com\unach\taller\Service\IArtistaService.class
+com\unach\taller\Service\ResourceNotFoundException.class
+com\unach\taller\Entity\Mural.class
